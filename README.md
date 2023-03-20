@@ -8,3 +8,11 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 
 L’output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo).
 
+## Steps
+- Salvare i chilometri inseriti nel prompt dall'utente;
+- Salvare l'età inserita nel prompt dall'utente;
+- Creare una variabile che contenga il prezzo del viaggio al chilometro (in questo caso 0.21 &euro; al km);
+- Salvare in una variabile il risultato del calcolo del prezzo, in base ai chilometri inseriti dall'utente;
+- Applicare un eventuale riduzione del 20% o del 40% al prezzo precedentemente calcolato, in base all'età inserita dall'utente;
+- Approssimare il prezzo a sole due cifre decimali;
+- Stampare nella pagina il prezzo finale del biglietto.
